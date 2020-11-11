@@ -3,7 +3,7 @@
 
 ## 安装
 
-`composer require hanson/meituan-sdk:dev-master`
+`composer require kylin987/meituan-sdk`
 
 ## 文档
 
